@@ -1,8 +1,13 @@
+
+<html>
+<body>
 <?php
 	echo '<script language="javascript">';
-					echo 'alert("There is error field")';
+					echo 'alert(raneen)';
 					echo '</script>';
 
 
 
 ?>
+<body>
+</html>

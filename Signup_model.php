@@ -3,7 +3,7 @@
 	class Signup_model extends CI_Model {
 		public function __construct()
     {
-            $this->load->database();
+        //    $this->load->database();
     }
 		function data_insert($data){
 			$this->load->database();
